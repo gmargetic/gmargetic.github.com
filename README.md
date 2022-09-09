@@ -7,7 +7,7 @@
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=3293ff9900a8&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
-<p align="left"> <a href="https://twitter.com/gogo1207" target="blank"><img src="https://img.shields.io/twitter/follow/gogo1207?logo=twitter&style=for-the-badge" alt="gogo1207" /></a> </p>
+<p align="left"> <a href="https://twitter.com/de4dcode" target="blank"><img src="https://img.shields.io/twitter/follow/de4dcode?logo=twitter&style=for-the-badge" alt="de4dcode" /></a> </p>
 
 - 🔭 I’m currently working on **Micro Web Panel** for **LAMP**
 
@@ -26,8 +26,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/gogo1207" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="gogo1207" height="30" width="40" /></a>
-<a href="https://twitter.com/gogo1207" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gogo1207" height="30" width="40" /></a>
-<a href="https://fb.com/gogo1207" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gogo1207" height="30" width="40" /></a>
+<a href="https://twitter.com/de4dcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="de4dcode" height="30" width="40" /></a>
+<a href="https://fb.com/gmargetic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gmargetic" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
