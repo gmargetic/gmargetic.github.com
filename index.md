@@ -15,11 +15,11 @@
 
 - 👨‍💻 Some of my projects are available at [https://lab.goranmargetic.com](https://lab.goranmargetic.com)
 
-- 📝 I regulary write articles on [https://lab.goranmargetic.com/](https://lab.goranmargetic.com/blog)
+- 📝 I regulary write articles on [https://lab.goranmargetic.com/](https://lab.goranmargetic.com/)
 
 - 📫 How to reach me? **Use one of the social network links.**
 
-- 📄 Know about my experiences [https://www.goranmargetic.com/about](https://www.goranmargetic.com/skills)
+- 📄 Know about my experiences [https://www.goranmargetic.com/about](https://www.goranmargetic.com/about)
 
 - 🐛 **Its not a bug its an undocumented feature!**
 
