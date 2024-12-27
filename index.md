@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gogo1207&label=Profile%20views&color=0e75b6&style=flat" alt="gogo1207" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gogo1207" alt="gogo1207" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=gmargetic](https://github-profile-trophy.vercel.app/?username=gmargetic)" alt="gmargetic" /></a> </p>
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=3293ff9900a8&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
@@ -13,20 +13,20 @@
 
 - 🌱 I’m currently learning **~~CentOS 8~~ Rocky 8 security**
 
-- 👨‍💻 Some of my projects are available at [https://www.goranmargetic.com](https://www.goranmargetic.com)
+- 👨‍💻 Some of my projects are available at [https://lab.goranmargetic.com](https://lab.goranmargetic.com)
 
-- 📝 I regulary write articles on [https://www.goranmargetic.com/blog](https://www.goranmargetic.com/blog)
+- 📝 I regulary write articles on [https://lab.goranmargetic.com/](https://lab.goranmargetic.com/blog)
 
 - 📫 How to reach me? **Use one of the social network links.**
 
-- 📄 Know about my experiences [https://www.goranmargetic.com/skills](https://www.goranmargetic.com/skills)
+- 📄 Know about my experiences [https://www.goranmargetic.com/about](https://www.goranmargetic.com/skills)
 
 - 🐛 **Its not a bug its an undocumented feature!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/gogo1207" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="gogo1207" height="30" width="40" /></a>
-<a href="https://twitter.com/de4dcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="de4dcode" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/de4dcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="de4dcode" height="30" width="40" /></a>-->
 <a href="https://fb.com/gmargetic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gmargetic" height="30" width="40" /></a>
 </p>
 
