@@ -37,7 +37,7 @@ Whether it’s brainstorming crazy ideas, building the next big thing, or just c
 
 ---
 
-🚀 Let’s build the future, one crazy idea at a time!
+🚀 **Let’s build the future, one crazy idea at a time!**
 🐛 **Its not a bug its an undocumented feature!**
 
 
