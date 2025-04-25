@@ -24,7 +24,7 @@ A passionate coder, dreamer, and part-time troublemaker. If you need someone to 
 
 ## Fun Facts About Me 😜
 - I believe **PHP is superior** and will argue about it any day! 🥊
-- I like my code **indented with 4 spaces** – no half-tabs or spaces nonsense here. 🚫
+- I like my code **indented with TAB (4 spaces)** – no half-tabs or spaces nonsense here. 🚫
 - I’m all about **open conversations** – nothing’s off-limits. Let’s get real. 💬
 
 ## Want to collaborate? 🤝
