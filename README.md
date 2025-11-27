@@ -1,51 +1,65 @@
-# Hi there! 👋 I'm Goran Margetić, your friendly neighborhood mad scientist of code! 🧪💻
+# Hi there, I'm Goran Margetić. 👋
 
-## Who am I? 🤔
-A passionate coder, dreamer, and part-time troublemaker. If you need someone to juggle PHP, Laravel, TailwindCSS, or AlpineJS while scheming up some galactic mischief – I’m your guy. 😎
+### Full-Stack Software Engineer & System Architect
 
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=3293ff9900a8&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-
-## What do I do? 🛠️
-- Crafting **ENTERPRISE** **awesome web apps** that make the internet a better (and weirder) place. 🌐✨
-- Building **desktop applications** with C# – from slick WinForm GUIs to robust console tools. 🖥️
-- Experimenting with **NativePHP** to bring PHP’s magic to desktop applications. 🧙‍♂️
-- Designing my **space-themed real-time strategy game** called [**Guilds of Galaxies**](https://www.gog.tf). 🌌🚀
-
-## Languages & Tools I Speak Fluently 🧑‍💻
-- **PHP** (because, let’s face it, it’s the king of languages) 👑
-- **Laravel**, **TailwindCSS**, **AlpineJS**
-- **HTML, CSS, JavaScript** (the holy trinity of the web) 🔥
-- **C#** (for when I’m feeling desktop-y) 💾
-
-## What makes me tick? 💡
-- **Breaking the rules** (but only in code… mostly). 😈
-- **Optimizing everything** – from query performance to the perfect shade of #f9fafb. 🎨
-- **Galactic conquests** – designing mechanics, crafting lore, and dreaming big. 🌠
-
-## Fun Facts About Me 😜
-- I believe **PHP is superior** and will argue about it any day! 🥊
-- I like my code **indented with TAB (4 spaces)** – no half-tabs or spaces nonsense here. 🚫
-- I’m all about **open conversations** – nothing’s off-limits. Let’s get real. 💬
-
-## Want to collaborate? 🤝
-Whether it’s brainstorming crazy ideas, building the next big thing, or just chatting about PHP’s greatness – hit me up! Let’s make something awesome together. 🌟
-
-### Where to find me:
-- **Website:** [www.goranmargetic.com](https://www.goranmargetic.com)
-- **Email:** just use contact form at the website for initial contact ^ 🤣
-- **GitHub:** You’re already here, welcome! 😄
+I specialize in **Enterprise Web Engineering**, building robust, scalable, and secure solutions for businesses that have outgrown off-the-shelf software. My focus is on long-term maintainability, performance optimization, and pragmatic technology choices.
 
 ---
 
-🚀 **Let’s build the future, one crazy idea at a time!**
-🐛 **Its not a bug its an undocumented feature!**
+### 🛠️ Technical Ecosystem
 
+I believe in choosing the right tool for the job—prioritizing stability and development speed over fleeting trends.
 
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Backend & Core** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) |
+| **Frontend & UI** | ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpinedotjs&logoColor=white) ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat&logo=livewire&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+| **Desktop & Systems** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white) |
+| **Infrastructure** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) |
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gogo1207&label=Profile%20views&color=0e75b6&style=flat" alt="gogo1207" /> <img src="https://komarev.com/ghpvc/?username=gmargetic&label=Profile%20views&color=0e75b6&style=flat" alt="gmargetic" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gmargetic" alt="gmargetic" /></a> </p>
+### 🔭 Current Focus
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gmargetic&show_icons=true&theme=dark&locale=en&layout=compact" alt="gmargetic" /></p>
+-   **Mission-Critical Software:** Developing high-availability web systems and custom ERP/CRM solutions.
+-   **Desktop Automation:** Building native Windows tools and CLI utilities for data processing and system integration.
+-   **Smart Infrastructure:** Designing self-hosted, resilient server environments using Linux and Docker.
+-   **Guilds of Galaxies:** Architecting a complex, space-themed real-time strategy game engine. [Visit Website](https://gog.margetic.eu) 🌌
 
+---
 
+### 💡 Engineering Philosophy
+
+> *"Quality is not an act, it is a habit."*
+
+* **Anti-Bloat:** I actively avoid unnecessary complexity. I prefer **Livewire & AlpineJS** over heavy SPA frameworks to deliver faster results with less overhead.
+* **Performance First:** Optimized database queries, caching strategies, and clean code are mandatory, not optional.
+* **Legacy Modernization:** Expert in refactoring technical debt into modern, testable, and scalable architectures.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gmargetic&bg_color=0c0a09&color=f5f5f4&line=38bdf8&point=38bdf8&area=true&hide_border=true" alt="Goran's Github Activity Graph" />
+  </a>
+</p>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gmargetic&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true&bg_color=0c0a09&title_color=f5f5f4&text_color=a8a29e" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gmargetic&show_icons=true&theme=dark&locale=en&hide_border=true&bg_color=0c0a09&title_color=f5f5f4&text_color=a8a29e&count_private=true" alt="GitHub Stats" height="150" />
+</div>
+
+---
+
+### 📫 Connect & Collaborate
+
+I am available for **consulting, architecture planning, and development** of challenging projects.
+
+-   **Portfolio & Services:** [www.goranmargetic.com](https://www.goranmargetic.com)
+-   **Cloud Credit:** [Get $200 DigitalOcean Credit](https://www.digitalocean.com/?refcode=3293ff9900a8&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
+<p align="right">
+ <img src="https://komarev.com/ghpvc/?username=gmargetic&label=Views&color=44403c&style=flat-square" alt="Profile Views" />
+</p>
