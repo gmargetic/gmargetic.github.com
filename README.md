@@ -25,7 +25,7 @@ I believe in choosing the right tool for the job—prioritizing stability and de
 -   **Mission-Critical Software:** Developing high-availability web systems and custom ERP/CRM solutions.
 -   **Desktop Automation:** Building native Windows tools and CLI utilities for data processing and system integration.
 -   **Smart Infrastructure:** Designing self-hosted, resilient server environments using Linux and Docker.
--   **Guilds of Galaxies:** Architecting a complex, space-themed real-time strategy game engine. [Visit Website](https://www.gog.tf) 🌌
+-   **Guilds of Galaxies:** Architecting a complex, space-themed real-time strategy game engine. [Visit Website](https://gog.margetic.eu) 🌌
 
 ---
 
